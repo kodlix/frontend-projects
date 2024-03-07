@@ -17,20 +17,20 @@
  5. Project 5 - Image Search
  ![Tip calculator](/project-images/project5-image-search.png)
 
- 6. Project 1 - Calendar
+ 6. Project 6 - Calendar
  ![Tip calculator](/project-images/project6-calender.png)
 
- 7. Project 1 - Calculator
+ 7. Project 7 - Calculator
  ![Tip calculator](/project-images/project7-calculator.png)
 
- 8. Project 1 - Navigation Bar
+ 8. Project 8 - Navigation Bar
  ![Tip calculator](/project-images/project8-navbar.png)
 
- 9. Project 1 - Question Answer App
+ 9. Project 9 - Question Answer App
  ![Tip calculator](/project-images/project9-question-answer.png)
 
- 10. Project 1 - Potfolio
- ![Tip calculator](/project-images/project10-portfolio.pdf)
+ 10. Project 10 - Potfolio
+ ![Tip calculator](/project-images/portfolio.png)
 
 
 
