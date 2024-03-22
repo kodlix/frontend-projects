@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: azure;
+}
+.wrapper{
+    background-color: white;
+    width: 50%;
+    margin:8% auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+.wrapper h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+form{
+    display: block;
+    width: 100%;
+}
+label{
+    margin-top: 8px;
+}
+
+input, button{
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
