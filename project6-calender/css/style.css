@@ -3,6 +3,13 @@
 }
 body {
   font-family: poppins, sans-serif;
-  margin: 0 auto;
   background: rgb(248, 147, 113);
+}
+.mma{
+  height: 100%;
+  width: 50%;
+  background-color: black;
+  color: white;
+  margin: 0 auto;
+text-align: center;  
 }
